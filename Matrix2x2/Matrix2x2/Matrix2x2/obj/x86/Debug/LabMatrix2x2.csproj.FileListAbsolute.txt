@@ -1,0 +1,9 @@
+C:\Lectures\2014 Fall Semester\Game150\Assignments\Lab\Matrix2x2\Matrix2x2\bin\Debug\Matrix2x2.exe
+C:\Lectures\2014 Fall Semester\Game150\Assignments\Lab\Matrix2x2\Matrix2x2\bin\Debug\Matrix2x2.pdb
+C:\Lectures\2014 Fall Semester\Game150\Assignments\Lab\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.exe
+C:\Lectures\2014 Fall Semester\Game150\Assignments\Lab\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.pdb
+C:\Users\Owner\Documents\School Stuff\numeric computing\Matrix2x2\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.exe
+C:\Users\Owner\Documents\School Stuff\numeric computing\Matrix2x2\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.pdb
+C:\Users\Owner\Documents\School Stuff\numeric computing\Matrix2x2\Matrix2x2\Matrix2x2\bin\Debug\Matrix2x2.exe
+C:\Users\Owner\Documents\School Stuff\numeric computing\Matrix2x2\Matrix2x2\Matrix2x2\bin\Debug\Matrix2x2.pdb
+C:\Users\Owner\Documents\School Stuff\numeric computing\Matrix2x2\Matrix2x2\Matrix2x2\obj\x86\Debug\LabMatrix2x2.csprojResolveAssemblyReference.cache

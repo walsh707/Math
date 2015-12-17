@@ -1,0 +1,23 @@
+C:\Lectures\2014 Fall Semester\Game150\Assignments\Lab\Matrix2x2\Matrix2x2\bin\Debug\Matrix2x2.exe
+C:\Lectures\2014 Fall Semester\Game150\Assignments\Lab\Matrix2x2\Matrix2x2\bin\Debug\Matrix2x2.pdb
+C:\Lectures\2014 Fall Semester\Game150\Assignments\Lab\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.exe
+C:\Lectures\2014 Fall Semester\Game150\Assignments\Lab\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.pdb
+C:\Users\Nijastan\Desktop\Game Programming\Math\Assignments\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.exe
+C:\Users\Nijastan\Desktop\Game Programming\Math\Assignments\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.pdb
+C:\Users\Nijastan\Desktop\Game Programming\Math\Assignments\Matrix2x2\Matrix2x2\bin\Debug\Matrix2x2.exe
+C:\Users\Nijastan\Desktop\Game Programming\Math\Assignments\Matrix2x2\Matrix2x2\bin\Debug\Matrix2x2.pdb
+C:\Users\Nijastan\Desktop\Game Programming\Math\Assignments\Matrix2x2\Matrix2x2\obj\x86\Debug\LabMatrix2x2.csprojResolveAssemblyReference.cache
+F:\numeric computing\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.exe
+F:\numeric computing\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.pdb
+S:\numeric computing\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.exe
+S:\numeric computing\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.pdb
+S:\numeric computing\Matrix2x2\Matrix2x2\bin\Debug\Matrix2x2.exe
+S:\numeric computing\Matrix2x2\Matrix2x2\bin\Debug\Matrix2x2.pdb
+S:\numeric computing\Matrix2x2\Matrix2x2\obj\x86\Debug\LabMatrix2x2.csprojResolveAssemblyReference.cache
+E:\chaos\Documents\school stuff\C#\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.exe
+E:\chaos\Documents\school stuff\C#\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.pdb
+E:\chaos\Documents\school stuff\C#\Matrix2x2\Matrix2x2\obj\x86\Debug\LabMatrix2x2.csprojResolveAssemblyReference.cache
+E:\chaos\Documents\school stuff\C#\Matrix2x2\Matrix2x2\bin\Debug\Matrix2x2.exe
+E:\chaos\Documents\school stuff\C#\Matrix2x2\Matrix2x2\bin\Debug\Matrix2x2.pdb
+E:\chaos\Documents\school stuff\numeric computing\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.exe
+E:\chaos\Documents\school stuff\numeric computing\Matrix2x2\Matrix2x2\obj\x86\Debug\Matrix2x2.pdb
